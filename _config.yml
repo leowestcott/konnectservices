@@ -1,0 +1,10 @@
+# GitHub Pages builds this repository with Jekyll by default.
+# The site is plain static HTML; this file only stops documentation,
+# tooling and source images from being published.
+exclude:
+  - CLAUDE.md
+  - BRAND.md
+  - README.md
+  - tools/
+  - _source-images/
+  - .gitignore

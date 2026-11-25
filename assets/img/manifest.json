@@ -1,0 +1,517 @@
+{
+ "projects/clarendon-fitness": {
+  "key": "projects/clarendon-fitness",
+  "w": 1100,
+  "h": 700,
+  "widths": [
+   480,
+   800,
+   1100
+  ],
+  "color": "#9e9587"
+ },
+ "projects/clarendon-gym": {
+  "key": "projects/clarendon-gym",
+  "w": 1100,
+  "h": 700,
+  "widths": [
+   480,
+   800,
+   1100
+  ],
+  "color": "#505254"
+ },
+ "projects/clarendon-treatment": {
+  "key": "projects/clarendon-treatment",
+  "w": 1100,
+  "h": 700,
+  "widths": [
+   480,
+   800,
+   1100
+  ],
+  "color": "#887366"
+ },
+ "projects/clarendon-pool": {
+  "key": "projects/clarendon-pool",
+  "w": 1100,
+  "h": 700,
+  "widths": [
+   480,
+   800,
+   1100
+  ],
+  "color": "#5a6e6e"
+ },
+ "projects/clarendon-lounge": {
+  "key": "projects/clarendon-lounge",
+  "w": 1100,
+  "h": 700,
+  "widths": [
+   480,
+   800,
+   1100
+  ],
+  "color": "#9d8a75"
+ },
+ "projects/clarendon-washrooms": {
+  "key": "projects/clarendon-washrooms",
+  "w": 1100,
+  "h": 700,
+  "widths": [
+   480,
+   800,
+   1100
+  ],
+  "color": "#807a72"
+ },
+ "projects/nw-exterior": {
+  "key": "projects/nw-exterior",
+  "w": 1920,
+  "h": 1350,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   1920
+  ],
+  "color": "#9f8877"
+ },
+ "projects/nw-kitchen": {
+  "key": "projects/nw-kitchen",
+  "w": 1920,
+  "h": 1350,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   1920
+  ],
+  "color": "#9f9a90"
+ },
+ "projects/nw-loft": {
+  "key": "projects/nw-loft",
+  "w": 1920,
+  "h": 1350,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   1920
+  ],
+  "color": "#968b80"
+ },
+ "projects/nw-office": {
+  "key": "projects/nw-office",
+  "w": 1920,
+  "h": 1350,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   1920
+  ],
+  "color": "#7a746d"
+ },
+ "projects/nw-office-2": {
+  "key": "projects/nw-office-2",
+  "w": 1920,
+  "h": 1350,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   1920
+  ],
+  "color": "#7f7770"
+ },
+ "projects/nw-glass-roof": {
+  "key": "projects/nw-glass-roof",
+  "w": 1920,
+  "h": 1350,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   1920
+  ],
+  "color": "#717475"
+ },
+ "projects/abbey-warehouse": {
+  "key": "projects/abbey-warehouse",
+  "w": 1920,
+  "h": 1350,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   1920
+  ],
+  "color": "#b8b7b7"
+ },
+ "projects/abbey-exterior": {
+  "key": "projects/abbey-exterior",
+  "w": 1920,
+  "h": 1350,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   1920
+  ],
+  "color": "#737682"
+ },
+ "projects/abbey-office": {
+  "key": "projects/abbey-office",
+  "w": 1920,
+  "h": 1350,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   1920
+  ],
+  "color": "#8b898c"
+ },
+ "projects/abbey-mezzanine": {
+  "key": "projects/abbey-mezzanine",
+  "w": 1920,
+  "h": 1350,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   1920
+  ],
+  "color": "#9b9a9b"
+ },
+ "projects/abbey-office-2": {
+  "key": "projects/abbey-office-2",
+  "w": 1920,
+  "h": 1350,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   1920
+  ],
+  "color": "#838ea1"
+ },
+ "projects/rushworth-facade": {
+  "key": "projects/rushworth-facade",
+  "w": 1800,
+  "h": 1200,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   1800
+  ],
+  "color": "#847f77"
+ },
+ "projects/rushworth-exterior": {
+  "key": "projects/rushworth-exterior",
+  "w": 1800,
+  "h": 1200,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   1800
+  ],
+  "color": "#6f6c65"
+ },
+ "projects/rushworth-office": {
+  "key": "projects/rushworth-office",
+  "w": 1800,
+  "h": 1200,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   1800
+  ],
+  "color": "#6d675d"
+ },
+ "projects/rushworth-open-office": {
+  "key": "projects/rushworth-open-office",
+  "w": 1800,
+  "h": 1200,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   1800
+  ],
+  "color": "#6c675e"
+ },
+ "projects/rushworth-services": {
+  "key": "projects/rushworth-services",
+  "w": 1800,
+  "h": 1200,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   1800
+  ],
+  "color": "#747169"
+ },
+ "projects/rushworth-atrium": {
+  "key": "projects/rushworth-atrium",
+  "w": 1800,
+  "h": 1200,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   1800
+  ],
+  "color": "#66625d"
+ },
+ "projects/rushworth-internal": {
+  "key": "projects/rushworth-internal",
+  "w": 1800,
+  "h": 1200,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   1800
+  ],
+  "color": "#6d6c66"
+ },
+ "projects/rushworth-electrical": {
+  "key": "projects/rushworth-electrical",
+  "w": 1800,
+  "h": 1200,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   1800
+  ],
+  "color": "#666158"
+ },
+ "projects/rushworth-rooftop-pv": {
+  "key": "projects/rushworth-rooftop-pv",
+  "w": 1800,
+  "h": 1200,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   1800
+  ],
+  "color": "#838688"
+ },
+ "projects/rushworth-terrace-entrance": {
+  "key": "projects/rushworth-terrace-entrance",
+  "w": 1500,
+  "h": 2000,
+  "widths": [
+   480,
+   800,
+   1200,
+   1500
+  ],
+  "color": "#6f6d67"
+ },
+ "projects/rushworth-terrace": {
+  "key": "projects/rushworth-terrace",
+  "w": 1500,
+  "h": 2000,
+  "widths": [
+   480,
+   800,
+   1200,
+   1500
+  ],
+  "color": "#7f8382"
+ },
+ "projects/rushworth-plant": {
+  "key": "projects/rushworth-plant",
+  "w": 1500,
+  "h": 2000,
+  "widths": [
+   480,
+   800,
+   1200,
+   1500
+  ],
+  "color": "#7e7b74"
+ },
+ "projects/rushworth-mechanical": {
+  "key": "projects/rushworth-mechanical",
+  "w": 1500,
+  "h": 2000,
+  "widths": [
+   480,
+   800,
+   1200,
+   1500
+  ],
+  "color": "#79756d"
+ },
+ "services/switchroom": {
+  "key": "services/switchroom",
+  "w": 2400,
+  "h": 2645,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   2000
+  ],
+  "color": "#6f7068"
+ },
+ "services/breakers": {
+  "key": "services/breakers",
+  "w": 2400,
+  "h": 1800,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   2000
+  ],
+  "color": "#473843"
+ },
+ "services/insulated-pipework": {
+  "key": "services/insulated-pipework",
+  "w": 2400,
+  "h": 1600,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   2000
+  ],
+  "color": "#2e3332"
+ },
+ "services/rooftop-plant": {
+  "key": "services/rooftop-plant",
+  "w": 2400,
+  "h": 1800,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   2000
+  ],
+  "color": "#7495b3"
+ },
+ "services/rooftop-solar": {
+  "key": "services/rooftop-solar",
+  "w": 2400,
+  "h": 1624,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   2000
+  ],
+  "color": "#6d6758"
+ },
+ "services/heat-pumps": {
+  "key": "services/heat-pumps",
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   480,
+   800,
+   1200,
+   1600,
+   2000
+  ],
+  "color": "#96979b"
+ },
+ "accreditations/pasma": {
+  "key": "accreditations/pasma",
+  "w": 773,
+  "h": 200,
+  "widths": [
+   480
+  ],
+  "color": "#b4a3b4"
+ },
+ "accreditations/mcs": {
+  "key": "accreditations/mcs",
+  "w": 306,
+  "h": 262,
+  "widths": [
+   306
+  ],
+  "color": "#100e0f"
+ },
+ "accreditations/smas": {
+  "key": "accreditations/smas",
+  "w": 487,
+  "h": 209,
+  "widths": [
+   480
+  ],
+  "color": "#4d4c48"
+ },
+ "accreditations/ipaf": {
+  "key": "accreditations/ipaf",
+  "w": 594,
+  "h": 285,
+  "widths": [
+   480
+  ],
+  "color": "#6d6b6c"
+ },
+ "accreditations/niceic": {
+  "key": "accreditations/niceic",
+  "w": 654,
+  "h": 313,
+  "widths": [
+   480
+  ],
+  "color": "#d3b0b0"
+ },
+ "accreditations/recc": {
+  "key": "accreditations/recc",
+  "w": 484,
+  "h": 164,
+  "widths": [
+   480
+  ],
+  "color": "#baccdd"
+ },
+ "accreditations/gas-safe": {
+  "key": "accreditations/gas-safe",
+  "w": 326,
+  "h": 313,
+  "widths": [
+   326
+  ],
+  "color": "#686215"
+ }
+}
